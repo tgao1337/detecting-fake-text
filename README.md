@@ -1,3 +1,5 @@
+## This one was forked but then unforked. Most up to date is detecting-fake-text-2
+
 # GLTR: Giant Language Model Test Room
 Detecting text that was generated from large language models (e.g. GPT-2).
 
